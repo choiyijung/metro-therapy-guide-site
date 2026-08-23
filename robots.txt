@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gy-se-in-massage1004.shop/sitemap.xml
